@@ -1,0 +1,4 @@
+# Keep this line to enable annotations
+controllers:
+    resource: ../src/Controller/
+    type: annotation
