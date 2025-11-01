@@ -1,6 +1,4 @@
-GitHub
-mail.vogel@gmx.de
-0ginagina
+
 
 
 Minimal-backend
