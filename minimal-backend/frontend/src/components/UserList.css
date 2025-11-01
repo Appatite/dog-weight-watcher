@@ -1,0 +1,18 @@
+.user-list h2 {
+  margin-bottom: 20px;
+  color: #333;
+  border-bottom: 2px solid #667eea;
+  padding-bottom: 10px;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 40px;
+  color: #666;
+  font-size: 1.1rem;
+}
+
+.users-grid {
+  display: grid;
+  gap: 15px;
+}

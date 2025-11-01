@@ -1,0 +1,29 @@
+GitHub
+mail.vogel@gmx.de
+0ginagina
+
+
+Minimal-backend
+
+vscode 2Terminals
+
+backend: npm run dev -> http://localhost:5000
+
+frontend: npm run dev -> http://localhost:3000
+
+
+
+CMD Administrator
+
+C:\WINDOWS\system32>mysql
+
+C:\WINDOWS\system32>mysql -uroot -p
+Enter password: ****
+
+mysql> show databases;
+
+mysql> use reactnativeapp
+
+mysql> show tables;
+
+mysql> SELECT * FROM users;
